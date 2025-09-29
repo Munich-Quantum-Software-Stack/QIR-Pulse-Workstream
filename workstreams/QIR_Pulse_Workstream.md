@@ -14,7 +14,7 @@ The specification should define the data types that are essential to represent a
 The specification should also define the following instructions for the quantum instruction set: 
  
 - play: run a given pulse on a port 
-- delay: insert a delay between wavwforms (pulses). 
+- delay: insert a delay between waveforms (pulses). 
 
 ## Dependencies & Related Projects
 A related Base-Profile Definition workstream is to specify the minimal requirements to support defining and executing quantum programs. The current workstream should make sure that the specification are complaint with the Base profile.
@@ -47,3 +47,4 @@ The GitHub issue is labeled as `Approved` after approval by the steering
 committee.
 
 ## Open Questions
+
